@@ -1,0 +1,118 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-f947d3a51544d7685e5b61be1a3cb253941f7dd8afd183cf75c3b96acd0bbaff",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-11T16:23:32.058913+02:00",
+  "last_updated": "2024-10-11T16:23:32.25975+02:00",
+  "version": 9,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-11T16:23:32.058913+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-11T16:23:32.083048+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-11T16:23:32.109423+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-11T16:23:32.132826+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-11T16:23:32.157705+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/google.golang.org/grpc@v1.52.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-11T16:23:32.18295+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-48795"
+      },
+      "timestamp": "2024-10-11T16:23:32.208102+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/golang.org/x/crypto@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-24786"
+      },
+      "timestamp": "2024-10-11T16:23:32.233809+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/google.golang.org/protobuf@v1.28.1"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2024-28180"
+      },
+      "timestamp": "2024-10-11T16:23:32.25975+02:00",
+      "products": [
+        {
+          "@id": "pkg:go/gopkg.in/square/go-jose.v2@v2.6.0"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}
